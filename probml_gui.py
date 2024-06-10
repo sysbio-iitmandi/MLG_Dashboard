@@ -10,7 +10,7 @@ import threading
 class MainApplication(tk.Tk):
     def __init__(self):
         tk.Tk.__init__(self)
-        self.title("ML Genome Classifier")
+        self.title("Machine Learning Genomics Dashboard")
         #self.geometry("1024x700")
         
         # Set the icon for the window
