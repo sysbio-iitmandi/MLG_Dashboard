@@ -4,8 +4,8 @@
 The ProbML tool helps you classify your genomes into probiotic and non-probiotic based on the machine learning models developed by the Systems Biology Lab, IIT Mandi.
 
 ## Features
-- **ProbML Module**: Classify genomes using 12 XGB_SB_IITMd models.
-- **Kmers Module**: Generate a kmer frequency matrix.
+- **ProbML Module**: Classify genomes into probiotics or non-probiotics using in-house trained 12 XGB_LD3_IITMd models.
+- **Kmers Module**: Generate a Kmer frequency matrix for training models.
 - **Training Module**: Train various ML models using your dataset.
 - **Prediction Module**: Classify genomes using the trained models.
 
