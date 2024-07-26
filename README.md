@@ -37,6 +37,16 @@ The ProbML tool helps you classify your genomes into probiotic and non-probiotic
     python probml_gui.py
     ```
 
+## License
+
+This project is licensed under the MIT License with a citation requirement. See the [LICENSE](LICENSE) file for details.
+
+## Citation
+
+If you use this software in your research, please cite our work as follows:
+
+Arjun OK, Lalit N Mudgal, Vishesh Soni, Tulika Prakash. "ProbML: A machine learning-based genome classifier for identifying probiotic organisms," 2024. Manuscript submitted for publication.
+
 ## Contact Information
   For support or questions, please contact the Systems Biology Lab, IIT Mandi at sysbio.iitmandi.gmail.com.
 
