@@ -24,12 +24,13 @@ The ProbML tool helps you classify your genomes into probiotic and non-probiotic
 3. **Clone the repository**:
 
     ```cmd
-    git clone https://github.com/sysbio-iitmandi/ProbML
+    git clone https://github.com/sysbio-iitmandi/MLG_Dashboard
+
     ```
 4. Navigate to the directory
 
     ```cmd
-    cd ProbML-main/
+    cd MLG_Dashboard-main/
     ```
 5. Run the program
 
