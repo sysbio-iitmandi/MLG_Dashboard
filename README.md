@@ -45,3 +45,6 @@ This project is licensed under the MIT License with a citation requirement. See 
 ## Contact Information
   For support or questions, please contact the Systems Biology Lab, IIT Mandi at sysbio.iitmandi.gmail.com.
 
+## Cite us
+A. OK, L. N. Mudgal, V. Soni, T. Prakash, ProbML: A Machine Learning‐Based Genome Classifier for Identifying Probiotic Organisms. Mol. Nutr. Food Res. 2025, e70025. [https://doi.org/10.1002/mnfr.70025](url)
+
