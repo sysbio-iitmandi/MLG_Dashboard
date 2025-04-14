@@ -1,4 +1,4 @@
-# ProbML
+# MLG Dashboard
 
 ## Description
 The ProbML tool helps you classify your genomes into probiotic and non-probiotic based on the machine learning models developed by the Systems Biology Lab, IIT Mandi.
