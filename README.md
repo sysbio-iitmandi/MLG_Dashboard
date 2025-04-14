@@ -1,7 +1,7 @@
 # MLG Dashboard
 
 ## Description
-The ProbML tool helps you classify your genomes into probiotic and non-probiotic based on the machine learning models developed by the Systems Biology Lab, IIT Mandi.
+MLG Dashboard is a lightweight, user-friendly GUI tool that leverages ProbML models to identify potential probiotic candidates directly from genomic data. In addition, the platform enables users to create personalized datasets and train custom machine learning models tailored to their specific research needs.
 
 ## Features
 - **ProbML Module**: Classify genomes into probiotics or non-probiotics using in-house trained 12 XGB_LD3_IITMd models.
@@ -46,5 +46,5 @@ This project is licensed under the MIT License with a citation requirement. See 
   For support or questions, please contact the Systems Biology Lab, IIT Mandi at sysbio.iitmandi.gmail.com.
 
 ## Cite us
-A. OK, L. N. Mudgal, V. Soni, T. Prakash, ProbML: A Machine Learning‐Based Genome Classifier for Identifying Probiotic Organisms. Mol. Nutr. Food Res. 2025, e70025. [https://doi.org/10.1002/mnfr.70025](url)
+A. Orkkatteri Krishnan, L. N. Mudgal, V. Soni, T. Prakash, ProbML: A Machine Learning-Based Genome Classifier for Identifying Probiotic Organisms. Mol. Nutr. Food Res. 2025, e70025. [https://doi.org/10.1002/mnfr.70025](url)
 
